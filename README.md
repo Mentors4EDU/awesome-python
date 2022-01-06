@@ -5,4 +5,4 @@ List of awesome Python packages and tools
 
 1. [Numba]()
 2. [ipython]()
-3.
+3. [conda-deps]()
