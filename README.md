@@ -8,3 +8,4 @@ List of awesome Python packages and tools
 3. [Numba](https://numba.pydata.org/)
 4. [mantis-xray](https://spectromicroscopy.com/)
 5. [conda-deps](https://pypi.org/project/conda-deps/)
+6. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
