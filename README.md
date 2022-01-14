@@ -6,4 +6,5 @@ List of awesome Python packages and tools
 1. [chem](https://pypi.org/project/chem/)
 2. [ipython](https://pypi.org/project/ipython/)
 3. [Numba](https://numba.pydata.org/)
-4. [conda-deps](https://pypi.org/project/conda-deps/)
+4. [mantis-xray](https://spectromicroscopy.com/)
+5. [conda-deps](https://pypi.org/project/conda-deps/)
