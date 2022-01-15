@@ -10,4 +10,5 @@
 5. [Numba](https://numba.pydata.org/)
 6. [mantis-xray](https://spectromicroscopy.com/)
 7. [conda-deps](https://pypi.org/project/conda-deps/)
-8. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
+8. [scikit-learn](https://scikit-learn.org/stable/)
+9. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
