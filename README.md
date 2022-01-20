@@ -4,7 +4,7 @@
 *Feel free to contribute*
 
 1. [mne](https://mne.tools/)
-2. [Rich]()
+2. [Rich](https://pypi.org/project/rich/)
 3. [chem](https://pypi.org/project/chem/)
 4. [PyPy](https://www.pypy.org/)
 5. [SciPy](https://scipy.org/)
