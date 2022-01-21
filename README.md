@@ -13,6 +13,7 @@
 8. [Numba](https://numba.pydata.org/)
 9. [pandas](https://pypi.org/project/pandas/)
 10. [PyGEOS](https://pygeos.readthedocs.io/)
+11. [Panda3D](https://www.panda3d.org/)
 11. [Matplotlib](https://matplotlib.org/)
 12. [scikit-learn](https://scikit-learn.org/stable/)
 13. [mantis-xray](https://spectromicroscopy.com/)
