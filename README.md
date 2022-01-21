@@ -12,6 +12,7 @@
 7. [ipython](https://pypi.org/project/ipython/)
 8. [Numba](https://numba.pydata.org/)
 9. [pandas](https://pypi.org/project/pandas/)
+10. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
 10. [PyGEOS](https://pygeos.readthedocs.io/)
 11. [Panda3D](https://www.panda3d.org/)
 12. [Matplotlib](https://matplotlib.org/)
