@@ -4,8 +4,8 @@
 *Feel free to contribute*
 
 1. [mne](https://mne.tools/)
-2. [Rich](https://pypi.org/project/rich/)
-3. [Kivy,](https://kivy.org/#home)
+2. [Kivy](https://kivy.org/#home)
+3. [Rich](https://pypi.org/project/rich/)
 3. [PyPy](https://www.pypy.org/)
 4. [chem](https://pypi.org/project/chem/)
 5. [SciPy](https://scipy.org/)
