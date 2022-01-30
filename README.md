@@ -18,6 +18,6 @@
 15. [scikit-learn](https://scikit-learn.org/stable/)
 16. [GNU Radio](https://github.com/gnuradio/gnuradio)
 17. [mantis-xray](https://spectromicroscopy.com/)
-18. [statsmodels](https://pypi.org/project/statsmodels/)
-19. [conda-deps](https://pypi.org/project/conda-deps/)
+18. [conda-deps](https://pypi.org/project/conda-deps/)
+19. [statsmodels](https://pypi.org/project/statsmodels/) 
 20. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
