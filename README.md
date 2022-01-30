@@ -1,12 +1,12 @@
 # awesome-python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/awesome-python)
 **A List of awesome Python packages and tools**
 
-1. [mne](https://mne.tools/)
-2. [Kivy](https://kivy.org/#home)
-3. [Rich](https://pypi.org/project/rich/)
+1. [Kivy](https://kivy.org/#home)
+2. [Rich](https://pypi.org/project/rich/)
+3. [mne](https://mne.tools/)
 4. [PyPy](https://www.pypy.org/)
-5. [chem](https://pypi.org/project/chem/)
-6. [SciPy](https://scipy.org/)
+5. [SciPy](https://scipy.org/)
+6. [chem](https://pypi.org/project/chem/)
 7. [thermo](https://pypi.org/project/thermo/)
 8. [ipython](https://pypi.org/project/ipython/)
 8. [Numba](https://numba.pydata.org/)
