@@ -14,6 +14,7 @@
 11. [PyGEOS](https://pygeos.readthedocs.io/)
 12. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
 13. [Panda3D](https://www.panda3d.org/)
+14. [OctoPrint](https://octoprint.org/)
 14. [Matplotlib](https://matplotlib.org/)
 15. [scikit-learn](https://scikit-learn.org/stable/)
 16. [GNU Radio](https://github.com/gnuradio/gnuradio)
