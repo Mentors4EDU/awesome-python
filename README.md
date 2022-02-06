@@ -22,3 +22,4 @@
 19. [conda-deps](https://pypi.org/project/conda-deps/)
 20. [statsmodels](https://pypi.org/project/statsmodels/) 
 21. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
+22. [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
