@@ -8,10 +8,10 @@
 ### Science
 
 ### Development
+1. [Kivy](https://kivy.org/#home)
 
 ### Engineering
 
-1. [Kivy](https://kivy.org/#home)
 2. [m2p](https://pypi.org/project/m2p/) 
 3. [Rich](https://pypi.org/project/rich/)
 4. [mne](https://mne.tools/)
