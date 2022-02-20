@@ -1,5 +1,15 @@
 # awesome-python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/awesome-python)
-**A List of awesome Python packages and tools**
+##### A List of awesome Python packages and tools
+
+### Art
+
+### Design
+
+### Science
+
+### Development
+
+### Engineering
 
 1. [Kivy](https://kivy.org/#home)
 2. [m2p](https://pypi.org/project/m2p/) 
