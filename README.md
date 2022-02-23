@@ -9,9 +9,10 @@
 3. [PyGEOS](https://pygeos.readthedocs.io/)
 4. [Panda3D](https://www.panda3d.org/)
 5. [OctoPrint](https://octoprint.org/)
+6. [Matplotlib](https://matplotlib.org/)
 
 ### Science
-6. [m2p](https://pypi.org/project/m2p/)
+7. [m2p](https://pypi.org/project/m2p/)
 7. [mne](https://mne.tools/)
 8. [chem](https://pypi.org/project/chem/)
 
@@ -32,7 +33,6 @@
 
 ___
 
-17. [Matplotlib](https://matplotlib.org/)
 18. [scikit-learn](https://scikit-learn.org/stable/)
 19. [GNU Radio](https://github.com/gnuradio/gnuradio)
 20. [mantis-xray](https://spectromicroscopy.com/)
