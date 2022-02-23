@@ -6,17 +6,17 @@
 ### Design
 
 ### Science
-2. [m2p](https://pypi.org/project/m2p/) 
+2. [m2p](https://pypi.org/project/m2p/)
+4. [mne](https://mne.tools/)
 
 ### Development
 1. [Kivy](https://kivy.org/#home)
+3. [Rich](https://pypi.org/project/rich/)
+5. [PyPy](https://www.pypy.org/)
 
 ### Engineering
 
 
-3. [Rich](https://pypi.org/project/rich/)
-4. [mne](https://mne.tools/)
-5. [PyPy](https://www.pypy.org/)
 6. [taichi](https://github.com/taichi-dev/taichi)
 7. [chem](https://pypi.org/project/chem/)
 8. [SciPy](https://scipy.org/)
