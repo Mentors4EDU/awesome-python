@@ -15,25 +15,25 @@
 7. [m2p](https://pypi.org/project/m2p/)
 8. [mne](https://mne.tools/)
 9. [chem](https://pypi.org/project/chem/)
+10. [mantis-xray](https://spectromicroscopy.com/)
 
 ### Development
-10. [Kivy](https://kivy.org/#home)
-11. [Rich](https://pypi.org/project/rich/)
-12. [PyPy](https://www.pypy.org/)
-13. [taichi](https://github.com/taichi-dev/taichi)
-14. [SciPy](https://scipy.org/)
-15. [pandas](https://pypi.org/project/pandas/)
-16. [ipython](https://pypi.org/project/ipython/)
-17. [Numba](https://numba.pydata.org/)
-18. [scikit-learn](https://scikit-learn.org/stable/)
+11. [Kivy](https://kivy.org/#home)
+12. [Rich](https://pypi.org/project/rich/)
+13. [PyPy](https://www.pypy.org/)
+14. [taichi](https://github.com/taichi-dev/taichi)
+15. [SciPy](https://scipy.org/)
+16. [pandas](https://pypi.org/project/pandas/)
+17. [ipython](https://pypi.org/project/ipython/)
+18. [Numba](https://numba.pydata.org/)
+19. [scikit-learn](https://scikit-learn.org/stable/)
 
 ### Engineering
-19. [thermo](https://pypi.org/project/thermo/)
-20. [GNU Radio](https://github.com/gnuradio/gnuradio)
+20. [thermo](https://pypi.org/project/thermo/)
+21. [GNU Radio](https://github.com/gnuradio/gnuradio)
 
 ___
 
-20. [mantis-xray](https://spectromicroscopy.com/)
 21. [conda-deps](https://pypi.org/project/conda-deps/)
 22. [statsmodels](https://pypi.org/project/statsmodels/) 
 23. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
