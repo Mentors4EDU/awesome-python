@@ -27,14 +27,14 @@
 17. [ipython](https://pypi.org/project/ipython/)
 18. [Numba](https://numba.pydata.org/)
 19. [scikit-learn](https://scikit-learn.org/stable/)
+20. [conda-deps](https://pypi.org/project/conda-deps/)
 
 ### Engineering
-20. [thermo](https://pypi.org/project/thermo/)
-21. [GNU Radio](https://github.com/gnuradio/gnuradio)
+21. [thermo](https://pypi.org/project/thermo/)
+22. [GNU Radio](https://github.com/gnuradio/gnuradio)
 
 ___
 
-21. [conda-deps](https://pypi.org/project/conda-deps/)
 22. [statsmodels](https://pypi.org/project/statsmodels/) 
 23. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
 24. [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
