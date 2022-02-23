@@ -6,13 +6,14 @@
 ### Design
 
 ### Science
+2. [m2p](https://pypi.org/project/m2p/) 
 
 ### Development
 1. [Kivy](https://kivy.org/#home)
 
 ### Engineering
 
-2. [m2p](https://pypi.org/project/m2p/) 
+
 3. [Rich](https://pypi.org/project/rich/)
 4. [mne](https://mne.tools/)
 5. [PyPy](https://www.pypy.org/)
