@@ -4,6 +4,7 @@
 ### Art
 
 ### Design
+13. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
 
 ### Science
 2. [m2p](https://pypi.org/project/m2p/)
@@ -18,6 +19,7 @@
 8. [SciPy](https://scipy.org/)
 10. [pandas](https://pypi.org/project/pandas/)
 11. [ipython](https://pypi.org/project/ipython/)
+12. [Numba](https://numba.pydata.org/)
 
 ### Engineering
 9. [thermo](https://pypi.org/project/thermo/)
@@ -26,8 +28,6 @@
 
 ___
 
-12. [Numba](https://numba.pydata.org/)
-13. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
 14. [PyGEOS](https://pygeos.readthedocs.io/)
 15. [Panda3D](https://www.panda3d.org/)
 16. [OctoPrint](https://octoprint.org/)
