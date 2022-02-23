@@ -8,20 +8,20 @@
 ### Science
 2. [m2p](https://pypi.org/project/m2p/)
 4. [mne](https://mne.tools/)
+7. [chem](https://pypi.org/project/chem/)
 
 ### Development
 1. [Kivy](https://kivy.org/#home)
 3. [Rich](https://pypi.org/project/rich/)
 5. [PyPy](https://www.pypy.org/)
 6. [taichi](https://github.com/taichi-dev/taichi)
+8. [SciPy](https://scipy.org/)
 
 ### Engineering
-
-
-
-7. [chem](https://pypi.org/project/chem/)
-8. [SciPy](https://scipy.org/)
 9. [thermo](https://pypi.org/project/thermo/)
+
+
+
 10. [pandas](https://pypi.org/project/pandas/)
 11. [ipython](https://pypi.org/project/ipython/)
 12. [Numba](https://numba.pydata.org/)
