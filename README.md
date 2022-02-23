@@ -16,14 +16,16 @@
 5. [PyPy](https://www.pypy.org/)
 6. [taichi](https://github.com/taichi-dev/taichi)
 8. [SciPy](https://scipy.org/)
+10. [pandas](https://pypi.org/project/pandas/)
+11. [ipython](https://pypi.org/project/ipython/)
 
 ### Engineering
 9. [thermo](https://pypi.org/project/thermo/)
 
 
 
-10. [pandas](https://pypi.org/project/pandas/)
-11. [ipython](https://pypi.org/project/ipython/)
+___
+
 12. [Numba](https://numba.pydata.org/)
 13. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
 14. [PyGEOS](https://pygeos.readthedocs.io/)
