@@ -2,35 +2,36 @@
 ##### A List of awesome Python packages and tools
 
 ### Art
+1. [art](https://pypi.org/project/art/)
 
 ### Design
-13. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
+2. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
+3. [PyGEOS](https://pygeos.readthedocs.io/)
+4. [Panda3D](https://www.panda3d.org/)
+5. [OctoPrint](https://octoprint.org/)
 
 ### Science
-2. [m2p](https://pypi.org/project/m2p/)
-4. [mne](https://mne.tools/)
-7. [chem](https://pypi.org/project/chem/)
+6. [m2p](https://pypi.org/project/m2p/)
+7. [mne](https://mne.tools/)
+8. [chem](https://pypi.org/project/chem/)
 
 ### Development
-1. [Kivy](https://kivy.org/#home)
-3. [Rich](https://pypi.org/project/rich/)
-5. [PyPy](https://www.pypy.org/)
-6. [taichi](https://github.com/taichi-dev/taichi)
-8. [SciPy](https://scipy.org/)
-10. [pandas](https://pypi.org/project/pandas/)
-11. [ipython](https://pypi.org/project/ipython/)
-12. [Numba](https://numba.pydata.org/)
+9. [Kivy](https://kivy.org/#home)
+10. [Rich](https://pypi.org/project/rich/)
+11. [PyPy](https://www.pypy.org/)
+12. [taichi](https://github.com/taichi-dev/taichi)
+13. [SciPy](https://scipy.org/)
+14. [pandas](https://pypi.org/project/pandas/)
+15. [ipython](https://pypi.org/project/ipython/)
+16. [Numba](https://numba.pydata.org/)
 
 ### Engineering
-9. [thermo](https://pypi.org/project/thermo/)
+17. [thermo](https://pypi.org/project/thermo/)
 
 
 
 ___
 
-14. [PyGEOS](https://pygeos.readthedocs.io/)
-15. [Panda3D](https://www.panda3d.org/)
-16. [OctoPrint](https://octoprint.org/)
 17. [Matplotlib](https://matplotlib.org/)
 18. [scikit-learn](https://scikit-learn.org/stable/)
 19. [GNU Radio](https://github.com/gnuradio/gnuradio)
