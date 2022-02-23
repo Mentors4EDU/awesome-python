@@ -13,11 +13,12 @@
 1. [Kivy](https://kivy.org/#home)
 3. [Rich](https://pypi.org/project/rich/)
 5. [PyPy](https://www.pypy.org/)
+6. [taichi](https://github.com/taichi-dev/taichi)
 
 ### Engineering
 
 
-6. [taichi](https://github.com/taichi-dev/taichi)
+
 7. [chem](https://pypi.org/project/chem/)
 8. [SciPy](https://scipy.org/)
 9. [thermo](https://pypi.org/project/thermo/)
