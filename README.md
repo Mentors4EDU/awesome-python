@@ -3,6 +3,7 @@
 
 ### Art
 1. [art](https://pypi.org/project/art/)
+2. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
 
 ### Design
 2. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
@@ -28,13 +29,10 @@
 18. [Numba](https://numba.pydata.org/)
 19. [scikit-learn](https://scikit-learn.org/stable/)
 20. [conda-deps](https://pypi.org/project/conda-deps/)
+21. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
+22. [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
 
 ### Engineering
-21. [thermo](https://pypi.org/project/thermo/)
-22. [GNU Radio](https://github.com/gnuradio/gnuradio)
-
-___
-
-22. [statsmodels](https://pypi.org/project/statsmodels/) 
-23. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
-24. [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
+23. [thermo](https://pypi.org/project/thermo/)
+24. [GNU Radio](https://github.com/gnuradio/gnuradio)
+25. [statsmodels](https://pypi.org/project/statsmodels/) 
