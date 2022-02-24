@@ -1,7 +1,7 @@
 # awesome-python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Mentors4EDU/awesome-python)
 ##### A List of awesome Python packages and tools
 
-### Art
+### 🎨 Art
 1. [art](https://pypi.org/project/art/)
 2. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
 
