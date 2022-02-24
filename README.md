@@ -18,7 +18,7 @@
 9. [chem](https://pypi.org/project/chem/)
 10. [mantis-xray](https://spectromicroscopy.com/)
 
-### Development
+### 💻 Development
 11. [Kivy](https://kivy.org/#home)
 12. [Rich](https://pypi.org/project/rich/)
 13. [PyPy](https://www.pypy.org/)
@@ -32,13 +32,7 @@
 21. [cosine-crypto](https://cosine-documentation.readthedocs.io/en/latest/)
 22. [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
 
-### Engineering
+### 📐 Engineering
 23. [thermo](https://pypi.org/project/thermo/)
 24. [GNU Radio](https://github.com/gnuradio/gnuradio)
 25. [statsmodels](https://pypi.org/project/statsmodels/) 
-
-
-**--> Will Add:**
-1. More Art Packages
-2. Descriptors?
-3. More Engineering Packages
