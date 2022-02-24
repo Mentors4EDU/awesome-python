@@ -5,14 +5,14 @@
 1. [art](https://pypi.org/project/art/)
 2. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
 
-### Design
+### 🖲️ Design
 2. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
 3. [PyGEOS](https://pygeos.readthedocs.io/)
 4. [Panda3D](https://www.panda3d.org/)
 5. [OctoPrint](https://octoprint.org/)
 6. [Matplotlib](https://matplotlib.org/)
 
-### Science
+### 🔬 Science
 7. [m2p](https://pypi.org/project/m2p/)
 8. [mne](https://mne.tools/)
 9. [chem](https://pypi.org/project/chem/)
