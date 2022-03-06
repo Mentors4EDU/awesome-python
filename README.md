@@ -34,8 +34,8 @@
 23. [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
 
 ### 📐 Engineering
-24. [upy2](https://pypi.org/project/upy2/)
-25. [silas](https://pypi.org/project/silas/)
+24. [silas](https://pypi.org/project/silas/)
+25. [upy2](https://pypi.org/project/upy2/)
 26. [thermo](https://pypi.org/project/thermo/)
 27. [algebra](https://pypi.org/project/algebra/)
 28. [GNU Radio](https://github.com/gnuradio/gnuradio)
