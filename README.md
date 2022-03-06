@@ -13,6 +13,7 @@
 6. [Matplotlib](https://matplotlib.org/)
 
 ### 🔬 Science
+7. [rf](https://pypi.org/project/rf/)
 7. [m2p](https://pypi.org/project/m2p/)
 8. [mne](https://mne.tools/)
 9. [chem](https://pypi.org/project/chem/)
