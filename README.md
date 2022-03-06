@@ -35,8 +35,8 @@
 
 ### 📐 Engineering
 24. [silas](https://pypi.org/project/silas/)
-24. [thermo](https://pypi.org/project/thermo/)
-25. [algebra](https://pypi.org/project/algebra/)
-26. [GNU Radio](https://github.com/gnuradio/gnuradio)
-27. [statsmodels](https://pypi.org/project/statsmodels/) 
-28. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)
+25. [thermo](https://pypi.org/project/thermo/)
+26. [algebra](https://pypi.org/project/algebra/)
+27. [GNU Radio](https://github.com/gnuradio/gnuradio)
+28. [statsmodels](https://pypi.org/project/statsmodels/) 
+29. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)
