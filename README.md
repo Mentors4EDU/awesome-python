@@ -3,7 +3,8 @@
 
 ### 🎨 Art
 1. [art](https://pypi.org/project/art/)
-2. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
+2. [Samila](https://pypi.org/project/samila/)
+3. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
 
 ### 🖲️ Design
 2. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
