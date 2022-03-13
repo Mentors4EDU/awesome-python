@@ -3,10 +3,10 @@
 
 ### 🎨 Art
 1. [art](https://pypi.org/project/art/)
-2. [Samila](https://pypi.org/project/samila/)
-3. [painter](https://pypi.org/project/painter/)
-4. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
-5. [pixelart-tui](https://pypi.org/project/pixelart-tui/)
+2. [painter](https://pypi.org/project/painter/)
+3. [Samila](https://pypi.org/project/samila/)
+4. [pixelart-tui](https://pypi.org/project/pixelart-tui/)
+5. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
 6. [flyingsnake](https://pypi.org/project/flyingsnake/)
 7. [pimondrian](https://pypi.org/project/pimondrian/)
 
