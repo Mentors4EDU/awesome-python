@@ -4,9 +4,10 @@
 ### 🎨 Art
 1. [art](https://pypi.org/project/art/)
 2. [Samila](https://pypi.org/project/samila/)
-3. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
-4. [flyingsnake](https://pypi.org/project/flyingsnake/)
-5. [pimondrian](https://pypi.org/project/pimondrian/)
+3. [painter](https://pypi.org/project/painter/)
+4. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
+5. [flyingsnake](https://pypi.org/project/flyingsnake/)
+6. [pimondrian](https://pypi.org/project/pimondrian/)
 
 ### 🖲️ Design
 6. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
