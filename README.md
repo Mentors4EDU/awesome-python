@@ -24,6 +24,7 @@
 14. [chem](https://pypi.org/project/chem/)
 15. [fasta2png](https://pypi.org/project/fasta2png/)
 16. [mantis-xray](https://spectromicroscopy.com/)
+17. [data-science-toolbox](https://pypi.org/project/data-science-toolbox/)
 
 ### 💻 Development
 16. [Kivy](https://kivy.org/#home)
