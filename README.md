@@ -5,7 +5,8 @@
 1. [art](https://pypi.org/project/art/)
 2. [Samila](https://pypi.org/project/samila/)
 3. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
-4. [pimondrian](https://pypi.org/project/pimondrian/)
+4. [flyingsnake](https://pypi.org/project/flyingsnake/)
+5. [pimondrian](https://pypi.org/project/pimondrian/)
 
 ### 🖲️ Design
 5. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
