@@ -8,11 +8,11 @@
 4. [pimondrian](https://pypi.org/project/pimondrian/)
 
 ### 🖲️ Design
-4. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
-5. [PyGEOS](https://pygeos.readthedocs.io/)
-6. [Panda3D](https://www.panda3d.org/)
-7. [OctoPrint](https://octoprint.org/)
-8. [Matplotlib](https://matplotlib.org/)
+5. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
+6. [PyGEOS](https://pygeos.readthedocs.io/)
+7. [Panda3D](https://www.panda3d.org/)
+8. [OctoPrint](https://octoprint.org/)
+9. [Matplotlib](https://matplotlib.org/)
 
 ### 🔬 Science
 9. [rf](https://pypi.org/project/rf/)
