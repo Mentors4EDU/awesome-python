@@ -15,11 +15,11 @@
 9. [Matplotlib](https://matplotlib.org/)
 
 ### 🔬 Science
-9. [rf](https://pypi.org/project/rf/)
-10. [m2p](https://pypi.org/project/m2p/)
-11. [mne](https://mne.tools/)
-12. [chem](https://pypi.org/project/chem/)
-13. [mantis-xray](https://spectromicroscopy.com/)
+10. [rf](https://pypi.org/project/rf/)
+11. [m2p](https://pypi.org/project/m2p/)
+12. [mne](https://mne.tools/)
+13. [chem](https://pypi.org/project/chem/)
+14. [mantis-xray](https://spectromicroscopy.com/)
 
 ### 💻 Development
 14. [Kivy](https://kivy.org/#home)
