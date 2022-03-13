@@ -9,18 +9,18 @@
 5. [pimondrian](https://pypi.org/project/pimondrian/)
 
 ### 🖲️ Design
-5. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
-6. [PyGEOS](https://pygeos.readthedocs.io/)
-7. [Panda3D](https://www.panda3d.org/)
-8. [OctoPrint](https://octoprint.org/)
-9. [Matplotlib](https://matplotlib.org/)
+6. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
+7. [PyGEOS](https://pygeos.readthedocs.io/)
+8. [Panda3D](https://www.panda3d.org/)
+9. [OctoPrint](https://octoprint.org/)
+10. [Matplotlib](https://matplotlib.org/)
 
 ### 🔬 Science
-10. [rf](https://pypi.org/project/rf/)
-11. [m2p](https://pypi.org/project/m2p/)
-12. [mne](https://mne.tools/)
-13. [chem](https://pypi.org/project/chem/)
-14. [mantis-xray](https://spectromicroscopy.com/)
+11. [rf](https://pypi.org/project/rf/)
+12. [m2p](https://pypi.org/project/m2p/)
+13. [mne](https://mne.tools/)
+14. [chem](https://pypi.org/project/chem/)
+15. [mantis-xray](https://spectromicroscopy.com/)
 
 ### 💻 Development
 15. [Kivy](https://kivy.org/#home)
