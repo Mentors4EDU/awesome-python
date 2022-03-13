@@ -37,10 +37,10 @@
 27. [atlassian-python-api](https://github.com/atlassian-api/atlassian-python-api)
 
 ### 📐 Engineering
-27. [silas](https://pypi.org/project/silas/)
-28. [upy2](https://pypi.org/project/upy2/)
-29. [thermo](https://pypi.org/project/thermo/)
-30. [algebra](https://pypi.org/project/algebra/)
-31. [GNU Radio](https://github.com/gnuradio/gnuradio)
-32. [statsmodels](https://pypi.org/project/statsmodels/) 
-33. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)
+28. [silas](https://pypi.org/project/silas/)
+29. [upy2](https://pypi.org/project/upy2/)
+30. [thermo](https://pypi.org/project/thermo/)
+31. [algebra](https://pypi.org/project/algebra/)
+32. [GNU Radio](https://github.com/gnuradio/gnuradio)
+33. [statsmodels](https://pypi.org/project/statsmodels/) 
+34. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)
