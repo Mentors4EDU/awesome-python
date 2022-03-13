@@ -21,7 +21,8 @@
 12. [m2p](https://pypi.org/project/m2p/)
 13. [mne](https://mne.tools/)
 14. [chem](https://pypi.org/project/chem/)
-15. [mantis-xray](https://spectromicroscopy.com/)
+15. [fasta2png](https://pypi.org/project/fasta2png/)
+16. [mantis-xray](https://spectromicroscopy.com/)
 
 ### 💻 Development
 16. [Kivy](https://kivy.org/#home)
