@@ -48,8 +48,4 @@
 36. [algebra](https://pypi.org/project/algebra/)
 37. [GNU Radio](https://github.com/gnuradio/gnuradio)
 38. [statsmodels](https://pypi.org/project/statsmodels/) 
-39. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)taichi
-SciPy
-Numba
-ipython
-pandas
+39. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)
