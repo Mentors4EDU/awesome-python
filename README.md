@@ -7,8 +7,8 @@
 3. [Samila](https://pypi.org/project/samila/)
 4. [pixelart-tui](https://pypi.org/project/pixelart-tui/)
 5. [pimondrian](https://pypi.org/project/pimondrian/)
+6. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
 7. [flyingsnake](https://pypi.org/project/flyingsnake/)
-8. [PyAscii-Art](https://pypi.org/project/PyAscii-Art/)
 
 ### 🖲️ Design
 8. [pygame](https://github.com/pygame/pygame/releases/tag/2.0.0)
