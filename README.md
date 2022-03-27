@@ -32,9 +32,9 @@
 22. [PyPy](https://www.pypy.org/)
 23. [taichi](https://github.com/taichi-dev/taichi)
 24. [SciPy](https://scipy.org/)
-25. [Numba](https://numba.pydata.org/)
-26. [ipython](https://pypi.org/project/ipython/)
-27. [pandas](https://pypi.org/project/pandas/)
+25. [ipython](https://pypi.org/project/ipython/)
+26. [pandas](https://pypi.org/project/pandas/)
+27. [Numba](https://numba.pydata.org/)
 28. [scikit-learn](https://scikit-learn.org/stable/)
 29. [jupyXplorer](https://pypi.org/project/jupyXplorer/)
 30. [conda-deps](https://pypi.org/project/conda-deps/)
@@ -48,4 +48,8 @@
 36. [algebra](https://pypi.org/project/algebra/)
 37. [GNU Radio](https://github.com/gnuradio/gnuradio)
 38. [statsmodels](https://pypi.org/project/statsmodels/) 
-39. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)
+39. [simple-linear-algebra](https://pypi.org/project/simple-linear-algebra/)taichi
+SciPy
+Numba
+ipython
+pandas
